@@ -16,7 +16,7 @@ This XML file does not appear to have any style information associated with it. 
 <country name="Andorra" population="72766" area="450"/>
 <country name="Angola" population="10342899" area="1246700"/>
 <country name="Anguilla" population="10424" area="91">
-<language percentage="100">English</language>
+<language percentage="100">English French</language>
 </country>
 <country name="Antigua and Barbuda" population="65647" area="440">
 <language percentage="100">English</language>
